@@ -1,4 +1,5 @@
-#!/bin/bash
+#kjhjkl!/bin/bash
 
+echo hoge
 echo hoge
 echo hoge
